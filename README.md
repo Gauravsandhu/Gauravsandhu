@@ -1,7 +1,7 @@
 ## Hi, I'm Gaurav!
 
 💻I am a Computer Science Student studing at Chitkara University, India<br>
-🎮 Currently learning Godot Game Engine and Data Science in Python
+🎮 Currently learning Data Science in Python
 
 
 
