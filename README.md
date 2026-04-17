@@ -1,6 +1,6 @@
 ## Hi, I'm Gaurav!
 
-💻I am a Computer Science Student studing at Chitkara University, India<br>
+💻 I am a Computer Science Student studing at Chitkara University, India<br>
 
 
 
